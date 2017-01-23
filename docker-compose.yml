@@ -25,7 +25,7 @@ services:
       - "11211"
 
   php-fpm:
-    image: php-wordpress:0.0.10
+    image: jwp23/php-wordpress
     volumes_from:
       - cms
     links:
