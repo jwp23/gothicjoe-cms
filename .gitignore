@@ -20,3 +20,6 @@ html/.htaccess
 # Composer
 vendor/*
 !vendor/.gitkeep
+
+# Builds
+builds/gothicjoe-cms.0.0.1.zip
